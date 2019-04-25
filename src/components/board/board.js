@@ -19,7 +19,7 @@ const initialChars = [
     },
     {
         name: 'Bloodhound',
-        img: 'img/250x180/blood.png',
+        img: 'img/250x180/Blood.png',
         clicked: false
     },
     {
@@ -45,6 +45,11 @@ const initialChars = [
     {
         name: 'Octane',
         img: 'img/250x180/octane.png',
+        clicked: false
+    },
+    {
+        name: 'Wraith',
+        img: 'img/250x180/wraith.png',
         clicked: false
     },
     {
